@@ -10,3 +10,4 @@ get to a directory and start having fun!
 
 * [quick, make music!](https://github.com/heyLu/templates/archive/quick-make-music!.zip):
     get started with overtone, quickly.
+* [quick, put clojure on the web](https://github.com/heyLu/templates/archive/clj-web.zip)
